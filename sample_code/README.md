@@ -1,5 +1,9 @@
 Files conatining sample code for pyqt app front end , chat layout , dashboard interface , checkboxes . 
 
+Final Dashboard for All Assets
+![Screenshot (97)](https://github.com/user-attachments/assets/2ce4d419-eea9-4dfa-a88e-6c6b00e13aea)
+
+
 ![Screenshot (94)](https://github.com/user-attachments/assets/e11b590b-04a4-48fd-9035-96cf054229d1)
 
 
@@ -10,3 +14,4 @@ Files conatining sample code for pyqt app front end , chat layout , dashboard in
 
 
 ![Screenshot (95)](https://github.com/user-attachments/assets/3dd66925-99bd-4416-94d6-115e816bbb4b)
+
