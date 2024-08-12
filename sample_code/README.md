@@ -1,5 +1,10 @@
 Files conatining sample code for pyqt app front end , chat layout , dashboard interface , checkboxes . 
 
+Final Dashboard for All Assets With Candle Sticks
+![Screenshot (98)](https://github.com/user-attachments/assets/7ec15a1d-33d9-4b4c-863f-9ae59353cee2)
+
+
+
 Final Dashboard for All Assets
 ![Screenshot (97)](https://github.com/user-attachments/assets/2ce4d419-eea9-4dfa-a88e-6c6b00e13aea)
 
