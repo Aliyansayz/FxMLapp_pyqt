@@ -1,6 +1,6 @@
 Files conatining sample code for pyqt app front end , chat layout , dashboard interface , checkboxes . 
 
-Primary Dashboard In Main App 
+Primary Dashboard In Main App  `chat_app_dashboard_candlestick.py`
 ![Screenshot (99)](https://github.com/user-attachments/assets/2073626f-ed78-450c-8016-821271b84139)
 
 
